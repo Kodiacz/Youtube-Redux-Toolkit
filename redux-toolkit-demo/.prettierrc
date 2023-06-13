@@ -1,7 +1,7 @@
 {
-    "printWidth": 120,
-    "semi": true,
-    "trailingComma": "all",
-    "singleQuote": false,
-    "tabWidth": 3
+   "printWidth": 120,
+   "semi": true,
+   "trailingComma": "all",
+   "singleQuote": false,
+   "tabWidth": 4
 }
