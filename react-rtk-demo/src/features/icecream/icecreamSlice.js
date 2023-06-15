@@ -27,6 +27,6 @@ const iceCreameSlice = createSlice({
     });
   },
 });
-S;
+
 export default iceCreameSlice.reducer;
 export const { ordered, restocked } = iceCreameSlice.actions;
